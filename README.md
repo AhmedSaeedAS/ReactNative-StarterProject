@@ -1,6 +1,13 @@
 # ReactNative-StarterProject
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# What is inside the project?
+
+Redux
+Splash Screen
+Drawer Navigator (React Navigation V5)
+Bottom Tab Navigator (React Navigation V5)
+Stack Navigator (React Navigation V5)
+
 
 ## Available Scripts
 
