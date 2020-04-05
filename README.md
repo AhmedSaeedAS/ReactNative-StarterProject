@@ -1,12 +1,12 @@
 # ReactNative-StarterProject
 
-# What is inside the project?
+## What is inside the project?
 
-Redux.
-Splash Screen.
-Drawer Navigator (React Navigation V5).
-Bottom Tab Navigator (React Navigation V5).
-Stack Navigator (React Navigation V5).
+Redux<br />
+Splash Screen<br />
+Drawer Navigator (React Navigation V5)<br />
+Bottom Tab Navigator (React Navigation V5)<br />
+Stack Navigator (React Navigation V5)<br />
 
 
 ## Available Scripts
