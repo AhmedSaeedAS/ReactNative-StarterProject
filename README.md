@@ -2,11 +2,11 @@
 
 # What is inside the project?
 
-Redux
-Splash Screen
-Drawer Navigator (React Navigation V5)
-Bottom Tab Navigator (React Navigation V5)
-Stack Navigator (React Navigation V5)
+Redux.
+Splash Screen.
+Drawer Navigator (React Navigation V5).
+Bottom Tab Navigator (React Navigation V5).
+Stack Navigator (React Navigation V5).
 
 
 ## Available Scripts
