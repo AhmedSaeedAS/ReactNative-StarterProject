@@ -24,7 +24,7 @@ In the project directory, you can run:
 # Run on Android device
 ### `react-native run-android`
 
-# To run on IOS device
+# Run on IOS device
 ### `react-native run-ios` 
 
 
