@@ -21,11 +21,12 @@ Stack Navigator <br />
 
 In the project directory, you can run:
 
+# Run on Android device
 ### `react-native run-android`
-To run on Android device
 
+# To run on IOS device
 ### `react-native run-ios` 
-To run on IOS device
+
 
 
 
