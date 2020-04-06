@@ -10,8 +10,8 @@ Async Storage<br />
 React Native Firebase/app (package) <br />
 React Native Firebase/messaging (package) <br />
 
-React Navigation v5 <br />
-==================== 
+# React Navigation v5 <br />
+
 Drawer Navigator <br />
 Bottom Tab Navigator <br />
 Stack Navigator <br />
